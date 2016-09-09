@@ -15,5 +15,5 @@ email = macbook@MacBookdeMacBook-Air.local\
 \'bd\'e2\'b4\'f0\'d3\'e0\'d0\'c0\'d1\'f4\'b0\'cd\'c0\'ad\'b0\'cd\'c0\'ad\'b5\'c4\'b6\'ab\'ce\'f7\
 \'b9\'dc\'c0\'ed\'d0\'de\'b8\'c4\'b2\'e2\'ca\'d41\
 \'b9\'dc\'c0\'ed\'d0\'de\'b8\'c4\'b2\'e2\'ca\'d42\
-\'b7\'d6\'d6\'a7\'d0\'de\'b8\'c4master\
+\'b7\'d6\'d6\'a7\'d0\'de\'b8\'c4\
 \'b7\'d6\'d6\'a7\'b9\'dc\'c0\'ed\'b2\'df\'c2\'d4}
